@@ -9,10 +9,13 @@ A movie application to search, view details, and save favorite movies. Built wit
 - Node.js
 - npm
 
-### Clone the Repository
-```bash
-git clone https://github.com/Devanshs31/movie_app.git
-cd movie_app
+### Required imports:
 
-```bash
-npm install
+- tailwindcss
+- appwrite
+- react-use
+
+### Note
+
+-appwrite for external database management
+-netlify for website
