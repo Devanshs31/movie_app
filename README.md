@@ -17,5 +17,5 @@ A movie application to search, view details, and save favorite movies. Built wit
 
 ### Note
 
--appwrite for external database management
--netlify for website
+- appwrite for external database management
+- netlify for website
