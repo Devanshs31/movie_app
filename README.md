@@ -14,8 +14,5 @@ A movie application to search, view details, and save favorite movies. Built wit
 git clone https://github.com/Devanshs31/movie_app.git
 cd movie_app
 
+```bash
 npm install
-
-npm start
-
-npm run build
